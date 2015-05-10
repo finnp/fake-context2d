@@ -1,0 +1,19 @@
+{
+  "name": "fake-context2d",
+  "version": "1.0.0",
+  "description": "fake canvas context2d api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finnp/fake-context2d.git"
+  },
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/fake-context2d/issues"
+  },
+  "homepage": "https://github.com/finnp/fake-context2d#readme"
+}
